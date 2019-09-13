@@ -1,4 +1,4 @@
-***Pending release on GooglePlay***
+Link to Google Play Store Listing: https://play.google.com/store/apps/details?id=com.arwapp.sittm
 
 ***Description: 
 
