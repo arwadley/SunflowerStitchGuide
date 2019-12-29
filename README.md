@@ -7,6 +7,7 @@
 # Walkthrough:
 
 <img src="https://i.imgur.com/07WQYpP.png?">
+
 ### Users can navigate into the app using buttons on the homescreen or the pull-out navigation drawer.
 
 <img src="https://i.imgur.com/CP2l7lm.png?">
