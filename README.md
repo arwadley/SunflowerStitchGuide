@@ -1,7 +1,8 @@
 ### Link to Google Play Store Listing: https://play.google.com/store/apps/details?id=com.arwapp.sittm
 
 # Description: 
-### Sunflower Stitch guide is an nformational Android app for teaching hand embroidery.  
+### Sunflower Stitch guide is an informational Android app for teaching hand embroidery.  
+#### Native application in Java.
 
 # Walkthrough:
 
