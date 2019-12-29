@@ -13,11 +13,11 @@
 
 ### Users can choose either a list of all available stitches, or a filtered list if they are looking for a stitch for a particular use, for example, outlining an object. 
 
-<img src="https://i.imgur.com/c7IfvXG.png?1">
+<img src="https://i.imgur.com/c7IfvXG.png?2">
 
 ### Pages for each stitch include a desciption of the stitch, and both photo and written instructions. I created all of the content for these, including the stitching.
 
-<img src="https://i.imgur.com/dB8HREd.png?1">
+<img src="https://i.imgur.com/dB8HREd.png?2">
 
 
-<img src="https://i.imgur.com/lcfwbDk.png?1">
+<img src="https://i.imgur.com/lcfwbDk.png?2">
